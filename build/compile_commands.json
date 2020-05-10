@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/build",
+  "command": "C:/MinGW/bin/g++.exe    -std=c++17 -g   -o CMakeFiles/StateMachine.dir/main.cpp.obj -c \"C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/main.cpp\"",
+  "file": "C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/main.cpp"
+},
+{
+  "directory": "C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/build",
+  "command": "C:/MinGW/bin/g++.exe    -std=c++17 -g   -o CMakeFiles/StateMachine.dir/statemachine.cpp.obj -c \"C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/statemachine.cpp\"",
+  "file": "C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/statemachine.cpp"
+},
+{
+  "directory": "C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/build",
+  "command": "C:/MinGW/bin/g++.exe    -std=c++17 -g   -o CMakeFiles/StateMachine.dir/helper.cpp.obj -c \"C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/helper.cpp\"",
+  "file": "C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/helper.cpp"
+}
+]

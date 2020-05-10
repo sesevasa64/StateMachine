@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/main.cpp
+iostream
+-
+statemachine.hpp
+C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/statemachine.hpp
+
+C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/statemachine.hpp
+array
+-
+string
+-
+

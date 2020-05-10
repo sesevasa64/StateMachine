@@ -1,0 +1,3 @@
+C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/build/CMakeFiles/StateMachine.dir
+C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/build/CMakeFiles/edit_cache.dir
+C:/Users/sesev/Desktop/My (not) finished projects/StateMachine/build/CMakeFiles/rebuild_cache.dir
